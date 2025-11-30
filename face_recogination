@@ -1,4 +1,4 @@
-"""Face recognition functions for capturing and recognizing faces."""
+"""Face recognition functions for capturing and recognizing faces. to be used """
 
 import os
 from typing import List, Optional, Tuple
